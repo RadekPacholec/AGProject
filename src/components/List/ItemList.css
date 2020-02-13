@@ -1,0 +1,17 @@
+.itemsList {
+  display: block;
+  width: 100%;
+}
+
+.itemsList li {
+  display: flex;
+  padding: 10px 0;
+  padding-left: 10px;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px solid black;
+}
+.item {
+  flex-basis: 100%;
+  text-align: justify;
+}
